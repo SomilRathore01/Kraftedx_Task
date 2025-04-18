@@ -8,10 +8,13 @@ Vercel Deployed url: [kraftedx-task.vercel.app](https://kraftedx-task.vercel.app
 
 Some Screenshots of the site:
 
+For this interactive bg gradient, I have taken reference from Aceternity UI.
 ![image](https://github.com/user-attachments/assets/088d71de-b04f-432c-bbcf-affa5b3f83d6)
 
+Login Page
 ![image](https://github.com/user-attachments/assets/27db6a68-9d72-40e6-83d5-85aab2f3f524)
 
+Signup Page
 ![image](https://github.com/user-attachments/assets/49f208d8-49bd-4a94-80a9-1b2b2db9169f)
 
 
