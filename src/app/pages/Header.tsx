@@ -2,10 +2,10 @@
 import { SignInButton, UserButton, useUser } from '@clerk/nextjs'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import React, { useEffect } from 'react'
+import React from 'react'
 
 const Header = () => {
-    const { user, isSignedIn } = useUser();
+    const { isSignedIn } = useUser();
     const path = usePathname();
 
     return !path.includes('sign-up') && !path.includes('sign-in') &&  (
