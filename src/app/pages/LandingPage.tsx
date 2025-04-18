@@ -31,13 +31,13 @@ const LandingPage = () => {
                             {isSignedIn ? (
                                 <Link href="/pages/dashboard">
                                     <button className="cursor-pointer block w-full rounded border-yellow-600 border-2 bg-yellow-400 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-yellow-400 focus:outline-white focus:ring active:text-opacity-75 sm:w-auto">
-                                        Create Form
+                                        Let's Go!!
                                     </button>
                                 </Link>
                             ) : (
                                 <SignInButton>
                                     <button className=" cursor-pointer block w-full rounded border-yellow-600 border-2 bg-yellow-400 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-yellow-400 focus:outline-white focus:ring active:text-opacity-75 sm:w-auto">
-                                        Create Form
+                                        Let's Go!!
                                     </button>
                                 </SignInButton>
                             )}
