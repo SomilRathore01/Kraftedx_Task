@@ -2,7 +2,7 @@ import { SignUp } from "@clerk/nextjs";
 
 export default function Page() {
   return (
-    <section className="bg-white dark:bg-gray-900">
+    <main className="bg-white dark:bg-gray-900 min-h-screen overflow-auto">
       <div className="lg:grid lg:min-h-screen lg:grid-cols-12">
         <aside className="relative block h-16 lg:order-last lg:col-span-5 lg:h-full xl:col-span-6">
           <img
@@ -43,6 +43,6 @@ export default function Page() {
           </div>
         </main>
       </div>
-    </section>
+    </main>
   )
 }
