@@ -44,7 +44,7 @@ const LandingPage = () => {
 
                             <a
                                 className="cursor-pointer block w-full rounded border-2 border-yellow-600 px-12 py-3 text-sm font-medium text-yellow-400 hover:bg-yellow-400 hover:text-white focus:outline-none focus:ring active:bg-blue-500 sm:w-auto"
-                                href="#"
+                                href="https://excalidraw.com/#json=iXxH0Ea-XinVTFsL5niQf,_vXWcavvM4EPQUlR2P1rwQ"
                             >
                                 Learn More
                             </a>
